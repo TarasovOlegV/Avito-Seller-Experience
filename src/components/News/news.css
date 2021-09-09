@@ -1,0 +1,20 @@
+.news {
+  border: 2px solid black;
+  margin:2px;
+}
+
+.news__score {
+  margin-left: 10px;
+  font-size: 12px;
+  padding:3px 4.8px;
+  color:#fff;
+}
+
+.news__refresh-button {
+  margin: 8px auto;
+}
+
+.news__author {
+  font-size: 16px;
+  font-weight: 600;
+}

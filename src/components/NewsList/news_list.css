@@ -1,0 +1,15 @@
+.new-list__button-container {
+  text-align: center;
+}
+
+.news-list__refresh-button  {
+margin : 10px 0;
+}
+
+.news-list__request-failure {
+  height:50px;
+  color:white;
+  background-color: red;
+  font-size: 30px;
+  text-align: center;
+}

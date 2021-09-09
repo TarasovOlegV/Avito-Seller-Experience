@@ -1,0 +1,17 @@
+.comments-list__button-container {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.comment__author {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.comment-list__failure-request{
+  height:50px;
+  color:white;
+  background-color: red;
+  font-size: 30px;
+  text-align: center;
+}
